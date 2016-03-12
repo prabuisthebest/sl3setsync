@@ -1,0 +1,16 @@
+{
+	"added_words":
+	[
+		"Toolpic"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"font_face": "Consolas",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"AngularJS",
+		"JSLint",
+		"Vintage"
+	],
+	"theme": "Spacegray Eighties.sublime-theme"
+}

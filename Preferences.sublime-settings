@@ -1,15 +1,24 @@
 {
 	"added_words":
 	[
-		"Toolpic"
+		"Toolpic",
+		"appologys"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
 	"font_face": "Consolas",
-	"font_size": 8,
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"AngularJS",
+		"ActionScript",
+		"Alignment",
+		"AngularJS Snippets",
+		"ChromeExtensionI18nHelper",
+		"ColorPicker",
 		"JSLint",
+		"Minify",
+		"SideBarEnhancements",
+		"SublimeLinter-php",
+		"View In Browser",
 		"Vintage"
 	],
 	"theme": "Spacegray Eighties.sublime-theme"

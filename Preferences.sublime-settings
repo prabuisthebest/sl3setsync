@@ -4,13 +4,14 @@
 		"Toolpic",
 		"appologys"
 	],
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_face": "Consolas",
 	"font_size": 10,
 	"ignored_packages":
 	[
 		"ActionScript",
-		"Alignment",
 		"AngularJS Snippets",
 		"ChromeExtensionI18nHelper",
 		"ColorPicker",
@@ -21,5 +22,27 @@
 		"View In Browser",
 		"Vintage"
 	],
-	"theme": "Spacegray Eighties.sublime-theme"
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_accent_blue": true,
+	"material_theme_appbar_blue": true,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_disable_fileicons": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_disable_tree_indicator": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme-Darker.sublime-theme"
 }
